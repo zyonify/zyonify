@@ -19,7 +19,7 @@
 | Key Rush | A typing speed challenge game | [Live](https://key-rush-eight.vercel.app/) |
 | Birthday Surprise | Interactive greeting app | [Live](https://birthday-surprise-v1.vercel.app/) |
 | My Portfolio | This website you already saw 😉 | [Live](https://zyon-portfolio.vercel.app) |
-| UML Diagram Creator | Built this to help with my technical documentation and because the free ones suck | [Live]([https://zyon-portfolio.vercel.app](https://zyon-uml-diagram-creator.vercel.app/)) |
+| UML Diagram Creator | Built this to help with my technical documentation and because the free ones suck | [Live](https://zyon-uml-diagram-creator.vercel.app/) |
 ---
 
 ## 📊 Stats & Stack
